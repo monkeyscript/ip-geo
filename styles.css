@@ -1,0 +1,14 @@
+* {
+    font-family: 'Oswald', sans-serif;
+    color: #e5e1dd;
+}
+
+body {
+    background-color: #272d33;
+}
+
+.keep-it-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
