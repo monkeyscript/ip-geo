@@ -4,6 +4,11 @@
 }
 
 body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
     background-color: #403d52;
 }
 
@@ -57,6 +62,8 @@ pre {
     display: none;
     padding: 1rem 2rem;
     border: 1px solid #fff;
+    max-width: 75vw;
+    overflow: auto;
     color: #78d0d3;
     border-radius: 0.2rem;
 }
